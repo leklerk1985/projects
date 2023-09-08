@@ -1,0 +1,4 @@
+play-field:
+    height: 10
+    width: 10
+number-of-spiders: 2
